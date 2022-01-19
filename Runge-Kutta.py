@@ -1,3 +1,7 @@
+######################################################
+# PRESS S after running the code to start simulation #
+######################################################
+
 import pygame
 import sys
 from math import sin, cos, pi

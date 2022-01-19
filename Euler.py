@@ -1,3 +1,7 @@
+######################################################
+# PRESS S after running the code to start simulation #
+######################################################
+
 import pygame
 import math
 import sys
